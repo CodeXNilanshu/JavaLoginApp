@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.2345" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2345" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/drawable/ic_menu_camera.xml" value="0.235" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.235" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/drawable/ic_menu_share.xml" value="0.235" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.235" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/drawable/input_style.xml" value="0.1575" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.14926372155287818" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/layout-w936dp/content_scrolling.xml" value="0.17421875" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/layout/activity_calender.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/layout/activity_chat.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/layout/activity_faculty_slots.xml" value="0.2" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/layout/activity_firstscreen.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/layout/activity_headersideview.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/layout/activity_home.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/layout/activity_mainpage.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/layout/activity_scrolling.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/layout/activity_sidebar.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/layout/activity_sideview.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/layout/activity_teacher_student_request.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/layout/content_scrolling.xml" value="0.2" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/menu/activity_sideview.xml" value="0.2" />
+        <entry key="..\:/Users/3501/AndroidStudioProjects/JavaLoginApp/app/src/main/res/menu/menu_scrolling.xml" value="0.22864583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
